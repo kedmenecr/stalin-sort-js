@@ -6,3 +6,8 @@ Implementation of stalin sort in javascript.
 
 You iterate down the elemnts checking if they are in order, if they are not you elimate them.
 
+# TODO
+
+* write tests
+
+
