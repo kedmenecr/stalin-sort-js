@@ -9,7 +9,6 @@ module.exports = (arr) => {
 			ourArray.push(x);
 		}
 	})
-	console.log(ourArray);
 	return ourArray;
 	
 };
