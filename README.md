@@ -8,8 +8,8 @@ You iterate down the elemnts checking if they are in order, if they are not you 
 
 EG.
 
-*You want to sort from a certain height
-*You want to sort from a random height
+* You want to sort from a certain height
+* You want to sort from a random height
 
 # TODO
 
